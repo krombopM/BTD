@@ -1,0 +1,48 @@
+<section class='w3-container w3-sand'>
+<h2>Om oss </h2>
+</section>
+
+<section class='w3-container w3-sand'>
+<img src="images/emmie.jpg" alt="img" height='100' width='100'>
+<p> Emmie Pohjanen - Projektledare</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/jenny.png" alt="img" height='100' width='100'>
+<p>Jenny Sjöström - Vice Projektledare och Kassör</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/isac.jpg" alt="img" height='100' width='100'>
+<p>Isac Ingfeldt - Pr och Webdesign</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Rebecka Bergsten - Ansvarsområde här:</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>David Jonsson - Företag</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Tobias Karlsson - Ansvarsområde här:</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Emmy Ståhl - Ansvarsområde här:</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Olle Serrander - Ansvarsområde här:</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Sebastian Augustinsson - Pr och Web</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Karin Alexandersson Ros - Ansvarsområde här:</p>
+</section>
+<section class='w3-container w3-sand'>
+<img src="images/morty.png" alt="img" height='100' width='100'>
+<p>Paula Luu - Företag</p>
+</section>
